@@ -86,6 +86,13 @@ The namespace exports the following:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`filled2dBy( shape, ku, kl, fill, clbk[, thisArg] )`][@stdlib/array/base/banded/filled2d-by]</span><span class="delimiter">: </span><span class="description">create a filled two-dimensional banded nested array according to a provided callback function.</span>
+-   <span class="signature">[`toCompact( arr, ku, kl, colexicographic )`][@stdlib/array/base/banded/to-compact]</span><span class="delimiter">: </span><span class="description">convert a two-dimensional banded nested array to compact banded storage.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -200,6 +207,14 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/array-base-banded/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-base-banded/main/LICENSE
+
+<!-- <toc-links> -->
+
+[@stdlib/array/base/banded/filled2d-by]: https://github.com/stdlib-js/array-base-banded-filled2d-by
+
+[@stdlib/array/base/banded/to-compact]: https://github.com/stdlib-js/array-base-banded-to-compact
+
+<!-- </toc-links> -->
 
 </section>
 

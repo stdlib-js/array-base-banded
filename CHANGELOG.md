@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-19)
+## Unreleased (2025-04-20)
 
 <section class="packages">
 
@@ -98,6 +98,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`a973708`](https://github.com/stdlib-js/stdlib/commit/a973708c85ff1696483ab503201191353125b964) - **docs:** update namespace table of contents [(#6741)](https://github.com/stdlib-js/stdlib/pull/6741) _(by stdlib-bot)_
 -   [`8213823`](https://github.com/stdlib-js/stdlib/commit/8213823c17f02cc771671778ab3de0205256e33e) - **feat:** add `array/base/banded` namespace _(by Athan Reines)_
 -   [`ef1d278`](https://github.com/stdlib-js/stdlib/commit/ef1d278f2a382993d2cc63f83458778593767708) - **feat:** add `array/base/banded/to-compact` _(by Athan Reines)_
 -   [`1bb5ea9`](https://github.com/stdlib-js/stdlib/commit/1bb5ea9e19c1d89b1cb7504d8e369b7fea02e94d) - **test:** add test cases _(by Athan Reines)_
