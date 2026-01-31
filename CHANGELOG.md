@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-09-21)
+## 0.1.0 (2026-01-31)
 
 <section class="features">
 
@@ -25,6 +25,7 @@
 
 <details>
 
+-   [`981c470`](https://github.com/stdlib-js/stdlib/commit/981c4701b0560daeb42f6235c837a661fc82beaa) - **bench:** refactor to use string interpolation in `array/base/banded/filled2d-by` [(#8801)](https://github.com/stdlib-js/stdlib/pull/8801) _(by Kate Suraev)_
 -   [`be9a2ed`](https://github.com/stdlib-js/stdlib/commit/be9a2ed77ea1e2013a8aaaf4f4d55aa964ff27f9) - **feat:** update `array/base/banded` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`a147b7d`](https://github.com/stdlib-js/stdlib/commit/a147b7d6ef754925120fcc7bdec2b40842a3615a) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`979807b`](https://github.com/stdlib-js/stdlib/commit/979807b5577c8a68aa06ba159ad2d905742eaf46) - **bench:** fix invocation _(by Athan Reines)_
@@ -44,9 +45,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Kate Suraev
 -   Philipp Burckhardt
 
 </section>
